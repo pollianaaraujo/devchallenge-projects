@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Page}</h1>
+<h1 align="center">404 Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -38,7 +38,7 @@
 
 ![screenshot](https://i.imgur.com/LtZFqny.png)
 
-I started learning HTML and CSS in the last three months, so I decided to do an exercise from devchallenge to practice a little what I learned so far.
+I started learning HTML and CSS a few months ago, so I decided to do an exercise from devchallenge to practice a little what I learned so far.
 
 I had some difficulty working on a responsive page, but I think I managed to deliver a nice page.
 
@@ -46,8 +46,8 @@ I had some difficulty working on a responsive page, but I think I managed to del
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 
 ## Features
 
@@ -63,4 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@pollianaaraujo](https://{github.com/pollianaaraujo})
+- GitHub [@pollianaaraujo](https://github.com/pollianaaraujo)
