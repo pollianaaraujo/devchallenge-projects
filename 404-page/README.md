@@ -38,7 +38,7 @@
 
 ![screenshot](https://i.imgur.com/LtZFqny.png)
 
-I started learning HTML and CSS a few months ago, so I decided to do an exercise from devchallenge to practice a little what I learned so far.
+I started learning HTML and CSS a few months ago, so I decided to do an exercise from devchallenge to practice what I learned so far.
 
 I had some difficulty working on a responsive page, but I think I managed to deliver a nice page.
 
